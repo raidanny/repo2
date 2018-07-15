@@ -1,0 +1,43 @@
+ Volume in drive C is OS
+ Volume Serial Number is 5E07-3180
+
+ Directory of C:\Users\danny
+
+2018-07-13  07:44 PM    <DIR>          .
+2018-07-13  07:44 PM    <DIR>          ..
+2016-02-19  03:12 PM    <DIR>          .android
+2018-07-13  07:20 PM                16 .bash_history
+2017-09-08  11:27 AM    <DIR>          .configprops
+2017-09-08  11:27 AM    <DIR>          .datastorage
+2018-06-23  12:10 PM    <DIR>          .eclipse
+2016-06-29  11:25 AM    <DIR>          .fontconfig
+2018-07-13  07:44 PM                54 .gitconfig
+2018-07-13  02:19 PM    <DIR>          .groovy
+2018-07-15  05:20 PM    <DIR>          .jenkins
+2018-07-01  11:00 AM    <DIR>          .m2
+2017-02-13  03:00 PM    <DIR>          .oracle_jre_usage
+2018-07-15  12:38 PM    <DIR>          .p2
+2017-02-13  03:06 PM            35,286 .sambox.cache
+2018-05-05  11:19 AM    <DIR>          .soapuios
+2018-07-12  09:40 PM    <DIR>          3D Objects
+2018-07-12  09:40 PM    <DIR>          Contacts
+2018-05-05  01:04 PM               254 default-soapui-workspace.xml
+2018-07-14  12:28 AM    <DIR>          Desktop
+2018-07-12  09:40 PM    <DIR>          Documents
+2018-07-14  12:09 AM    <DIR>          Downloads
+2018-07-12  09:40 PM    <DIR>          Favorites
+2017-09-17  03:48 AM    <DIR>          Justinmind
+2018-07-12  09:40 PM    <DIR>          Links
+2018-07-12  09:40 PM    <DIR>          Music
+2018-06-23  10:32 AM    <DIR>          OneDrive
+2018-07-12  09:40 PM    <DIR>          Pictures
+2016-12-04  07:16 PM    <DIR>          Roaming
+2018-07-12  09:40 PM    <DIR>          Saved Games
+2018-07-12  09:40 PM    <DIR>          Searches
+2018-05-05  01:04 PM             2,313 soapui-settings.xml
+2018-05-05  11:20 AM    <DIR>          SoapUI-Tutorials
+2015-08-08  12:33 PM    <DIR>          Tracing
+2018-07-12  09:40 PM    <DIR>          Videos
+2018-07-05  08:22 PM    <DIR>          workspace
+               5 File(s)         37,923 bytes
+              31 Dir(s)  178,066,436,096 bytes free
